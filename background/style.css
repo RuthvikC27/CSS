@@ -1,0 +1,7 @@
+body {
+  background-image: url("https://duaf10sptobie.cloudfront.net/wp-content/uploads/2020/05/Nani-trying-hard-to-make-his-film-a-pan-India-project.jpg"),
+    url("https://static.toiimg.com/photo/msid-70973027/70973027.jpg");
+  background-size:  500px 500px, 500px 500px;
+  background-repeat: no-repeat, no-repeat, no-repeat; 
+  background-position: 0px 0px, right;
+}
